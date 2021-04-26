@@ -32,6 +32,10 @@ header, main, footer {
 .mid {
   width: 100vw;
   background-color: #b3b3ff;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
 }
 
 .bott {
