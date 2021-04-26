@@ -3,12 +3,10 @@ body {
   background: $bkg-dr;
 }
 
-header{
+header, main, footer{
   content: "";
   display: table;
   clear: both;
-
-  background-color: $bkg-dr-hd
 }
 
 .contaniner {
@@ -20,4 +18,34 @@ header{
   width: 100vw;
 
   color: white;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sup {
+  height: 100px;
+  width: 100vw;
+
+  background-color:  $bkg-dr-sup;
+}
+
+.mid {
+  width: 100vw;
+
+  background-color:  $bkg-dr-mid;
+}
+
+.bott {
+  height: 100px;
+  width: 100vw;
+
+  background-color:  $bkg-dr-bott;
+}
+
+.link {
+
 }
