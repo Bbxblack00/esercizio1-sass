@@ -2,6 +2,12 @@ body {
   background: darkred;
 }
 
+header {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .contaniner {
   display: flex;
   justify-content: center;
