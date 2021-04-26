@@ -1,0 +1,23 @@
+{
+  "name": "esercizio1-sass",
+  "version": "1.0.0",
+  "description": "esercizio1-sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bbxblack00/esercizio1-sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bbxblack00/esercizio1-sass/issues"
+  },
+  "homepage": "https://github.com/Bbxblack00/esercizio1-sass#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.18"
+  }
+}
